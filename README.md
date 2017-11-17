@@ -68,3 +68,7 @@ Commands:
     * `C-c p k`: Kill all buffers for project
     * `C-c p s g`: Run grep on the files in the project
     * `C-c p S`: Save all project buffers.
+
+## Dependencies
+
+* For python: `sudo pip3 install flake8 jedi`
